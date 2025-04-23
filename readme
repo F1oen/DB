@@ -1,0 +1,36 @@
+# Donation Tracker
+
+A Python application to manage donors, events, volunteers, and donations for a charity.
+
+## Features
+- Add and view donors (full CRUD in progress)
+- Database normalization (up to 3NF)
+- SQLite backend
+- Simple CLI interface
+
+## How to Run
+1. Ensure Python 3 is installed
+2. Clone this repo:
+   ```bash
+   git clone [your-repo-link]
+   cd donation_tracker
+   ```
+3. Run the app:
+   ```bash
+   python main.py
+   ```
+
+## Files
+- `main.py` – Command line interface
+- `database.py` – All database functions
+- `report.md` – Final project report
+- `test_plan.md` – Testing documentation
+
+## Coming Soon
+- Full CRUD for all entities
+- Search functionality
+- GUI interface (future enhancement)
+
+## License
+MIT
+

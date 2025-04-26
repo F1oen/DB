@@ -28,5 +28,5 @@ The application allows users to:
 3. Run the `main.py` file:
 
 ```bash
-python main.py
+ python main.py
 ```

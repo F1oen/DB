@@ -23,7 +23,7 @@ To verify that the Donation Tracker application works correctly by testing CRUD 
 ### Test Environment
 - Python 3.11
 - SQLite3
-- OS: Windows/Linux/MacOS
+- OS: Windows/Linux
 
 ### Test Cases
 
